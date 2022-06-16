@@ -1,0 +1,6 @@
+C:\Users\LENOVO\OneDrive\Escritorio\Kata Range Pair Pro\Kata Range Pair Pro\bin\Debug\Kata Range Pair Pro.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Kata Range Pair Pro\Kata Range Pair Pro\bin\Debug\Kata Range Pair Pro.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Kata Range Pair Pro\Kata Range Pair Pro\obj\Debug\Kata Range Pair Pro.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Kata Range Pair Pro\Kata Range Pair Pro\obj\Debug\Kata Range Pair Pro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Kata Range Pair Pro\Kata Range Pair Pro\obj\Debug\Kata Range Pair Pro.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Kata Range Pair Pro\Kata Range Pair Pro\obj\Debug\Kata Range Pair Pro.pdb

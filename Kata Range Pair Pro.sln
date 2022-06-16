@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata Range Pair Pro", "Kata Range Pair Pro.\Kata Range Pair Pro.csproj", "{F01707DC-B5D7-47E7-8A78-FFF4EEBB423A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataRangeTest", "..\Kata Range Pair Pro\KataRangeTest\KataRangeTest.csproj", "{DFD5AEA2-8EFE-45A2-B3B4-02F6E6B9D922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01707DC-B5D7-47E7-8A78-FFF4EEBB423A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01707DC-B5D7-47E7-8A78-FFF4EEBB423A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01707DC-B5D7-47E7-8A78-FFF4EEBB423A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01707DC-B5D7-47E7-8A78-FFF4EEBB423A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD5AEA2-8EFE-45A2-B3B4-02F6E6B9D922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD5AEA2-8EFE-45A2-B3B4-02F6E6B9D922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD5AEA2-8EFE-45A2-B3B4-02F6E6B9D922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD5AEA2-8EFE-45A2-B3B4-02F6E6B9D922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D7E67F-FB54-48C3-8C16-59B210D0CD11}
+	EndGlobalSection
+EndGlobal
